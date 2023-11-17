@@ -1,0 +1,11 @@
+.main__container {
+    border-bottom: 1px solid #cecece;
+    padding-bottom: 50px;
+}
+
+.main__container>h2 {
+    display: inline-block;
+    margin: 25px 0 25px 10px;
+    color: #e40000;
+    font-family: 'Lilita One', sans-serif;
+}

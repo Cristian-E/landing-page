@@ -1,0 +1,20 @@
+.section__title {
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px 2px #ffffff;
+}
+
+.section__title h2 {
+    color: #EEE;
+    text-shadow: 3px 3px 1px #ff35b8;
+
+}
+
+.section__title p {
+    color: #eee;
+}
+
+
+.img-article {
+    border-radius: 30px;
+}
